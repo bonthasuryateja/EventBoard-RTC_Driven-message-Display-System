@@ -1,5 +1,3 @@
-# EventBoard-RTC_Driven-message-Display-System
-**Event Board** is an automated messaging system built on the **ARM7 LPC2148**. Using the internal RTC, it scrolls scheduled announcements on an LCD (with a green LED indicator); when idle, it displays real-time clock data and LM35 temperature readings (via ADC, with a red LED). Features a secure, password-protected keypad admin panel.
 # Event Board: RTC-Driven Message Display System
 
 An automated, time-triggered messaging and environmental monitoring system built on the **ARM7 LPC2148 micro-controller**. The system dynamically switches between displaying scheduled event announcements with a smooth scrolling mechanism and an idle dashboard monitoring live room parameters. Secure management access is guarded via a physical bypass switch and a matrix keypad password authentication layer.
