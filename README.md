@@ -41,4 +41,8 @@ An automated, time-triggered messaging and environmental monitoring system built
 ├── src/
 │   ├── main.c             # Core system state machine & execution loop
 │   └── admin.c            # Password verification & menu handling
-└── README.md              # Documentation
+└── README.md              # Documentation  <img width="1207" height="837" alt="image" src="https://github.com/user-attachments/assets/a4f0f139-1de7-4fae-b451-2b9b290a85c9" />  <img width="1215" height="846" alt="image" src="https://github.com/user-attachments/assets/fd6d5f3e-83c7-47f6-bad5-19750b9b9093" />  <img width="1207" height="842" alt="image" src="https://github.com/user-attachments/assets/c5a403f7-82f0-477a-ba50-b7437007e7e6" />  <img width="1208" height="840" alt="image" src="https://github.com/user-attachments/assets/245a7c06-eafc-4e41-bcf4-b2a2ca20674f" />
+
+
+
+
